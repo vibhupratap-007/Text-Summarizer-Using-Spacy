@@ -17,7 +17,7 @@ There are two categories of text summarization:
 **Text Summarizer can also be done using the Gensim library but Spacy is more efficient in summarizing task then Genism.**
 ===========================================================================================================================================================================================
 
-**Steps that I have followed to make a text summarizer are:**
+**Steps that I have followed to make a text summarizer using SpaCy are:**
 1. Importing the necessary libraries and uploading the content that needs to be summarized.
    #There are two ways of uploading the content
    1. Which I have done that is directly uploading the content in the code
