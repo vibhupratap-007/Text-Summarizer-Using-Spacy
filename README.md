@@ -13,9 +13,7 @@ There are two categories of text summarization:
 
 #Abstractive summarization : These methods use advanced NLP techniques to generate an entiely new summary. Some parts of this summary may not even appear in the original text.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Text Summarizer can also be done using the Gensim library but Spacy is more efficient in summarizing task then Genism.**
-===========================================================================================================================================================================================
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Steps that I have followed to make a text summarizer using SpaCy are:**
 1. Importing the necessary libraries and uploading the content that needs to be summarized.
@@ -27,3 +25,6 @@ There are two categories of text summarization:
 3. Normalization - The frequency can be normalised for better processing and it can be done by dividing the token’s frequencies by the maximum frequency.
 4. Weighing the sentences
 5. Summarizing the String
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Text Summarizer can also be done using the Gensim library but Spacy is more efficient in summarizing task then Genism.**
